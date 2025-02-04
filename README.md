@@ -41,3 +41,4 @@ Perform the following tasks:
 ## Resources:
  - Class information and videos - for basics of coding and building foundation
  - Stack overflow - for trouble shooting, and researching best code practices
+ - Dataset created by the United States Geological Survey 
