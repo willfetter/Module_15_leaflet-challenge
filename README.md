@@ -5,7 +5,7 @@
 This assignment creates a leaflet visualization diplaying all USGS earthquake data for the past 7 days. It shows earthquake locations with circles, the magnitude or the earthquakes as represented by the size of the circles, and the depth of the earthquakes as represented by the color of the circles. 
 
 # Instructions for Use
-Launch the visualization using the link: 
+Launch the visualization by opening "index.html" file with Live Server
 
 Map layers can be via the drop down menu on the top right. Select the map background desired along with the layers desired to be turned on or off. 
 
